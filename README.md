@@ -21,9 +21,15 @@ actuator off live sensor feedback. No `delay()` anywhere in `loop()`.
 
 ## Simulation Screenshots
 
-![Simulation Overview](docs simulation overview.jpg)
+![Simulation Overview](docs/docs%20simulation%20overview.jpg)
 
-![Serial Monitor Output](docs serial-monitor output.jpg)
+![Serial Monitor Output](docs/docs%20serial-monitor%20output.jpg)
+
+## Demo Videos
+
+[LED PWM Demo — brightness changes with potentiometer](docs/led-pwm-demo.mp4)
+
+[Full Simulation Demo](docs/simulation-demo.mp4)
 
 ## Wiring
 
@@ -56,6 +62,8 @@ getintern-week1-firmware/
 ├── firmware_telemetry_core.ino
 └── docs/
     ├── wokwi-link.md
-    ├── simulation-overview.jpg
-    └── serial-monitor-output.jpg
+    ├── docs simulation overview.jpg
+    ├── docs serial-monitor output.jpg
+    ├── led-pwm-demo.mp4
+    └── simulation-demo.mp4
 ```

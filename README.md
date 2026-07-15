@@ -21,9 +21,9 @@ actuator off live sensor feedback. No `delay()` anywhere in `loop()`.
 
 ## Simulation Screenshots
 
-![Simulation Overview](docs/simulation-overview.jpg)
+![Simulation Overview](docs simulation overview.jpg)
 
-![Serial Monitor Output](docs/serial-monitor-output.jpg)
+![Serial Monitor Output](docs serial-monitor output.jpg)
 
 ## Wiring
 
